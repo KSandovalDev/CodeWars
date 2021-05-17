@@ -7,6 +7,7 @@
 //       have a loop run through the array and identify what integers are positive or negative
 //       then add a conditional to say if integer is positive, add those positive ints together
           
+
           let a = []
           for( let i = 0 ; i < arr.length; i++){
               if( arr[i] >0){
