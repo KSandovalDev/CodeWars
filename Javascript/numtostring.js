@@ -3,5 +3,4 @@
 function numberToString(num) {
   return num.toString()
 }
-
 // code was asking to convert a number to a string
