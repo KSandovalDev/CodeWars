@@ -4,6 +4,7 @@
 // first character and -1 to remove the last one since a negative number will remove x amount of
 // characters from the back as opposed to the front
 
-function removeChar(str){
+
+function remove1Char(str){
   return str.slice(1, -1);
 }
